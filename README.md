@@ -1,4 +1,5 @@
-#Real-Time Facial Expression Recognition (FER) in Virtual Classrooms
+# Real-Time Facial Expression Recognition (FER) in Virtual Classrooms
+
 A 2nd year Capstone Project
 
 Project Overview
